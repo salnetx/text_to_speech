@@ -1,2 +1,2 @@
 # text_to_speech
-conver your text into speech
+convert your text into speech
